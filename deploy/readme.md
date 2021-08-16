@@ -72,5 +72,5 @@ ex:
 Here are the users to access.
 
 ```
-sam/sam     (smb customer)
-sandy/sandy (loan manager)
+sam/sam     (business manager)
+sandy/sandy (smb customer)
